@@ -11,7 +11,7 @@
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-3.2.1-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue&style=flat-square"></a>
 <a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/insta_hack??color=red&style=flat-square"></a>
 <a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/insta_hack??color=red&style=flat-square"></a>
@@ -43,7 +43,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/i
 [![Github](https://img.shields.io/badge/Github-%40Phantom--19-cyan?logo=github)](https://github.com/Phantom-19)
 [![YouTube](https://img.shields.io/badge/Youtube-%40FasterAxel-red?logo=youtube)](https://www.youtube.com/c/FASTERAXEL)
 [![Twitter](https://img.shields.io/twitter/follow/Faxel2020.svg?style=flat-square&label=Me%20suivre&logo=twitter)](https://twitter.com/Faxel2020)
-[![Instagram](https://img.shields.io/badge/Instagram-%40faxel19-magenta?logo=instagram)](https://www.instagram.com/faxel19)
+[![Instagram](https://img.shields.io/badge/Instagram-%40faxelh-magenta?logo=instagram)](https://www.instagram.com/faxelh)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?logo=messenger)](https://www.messenger.com/t/faxel19)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%40Faxel-whatsapp--green?logo=whatsapp)](https://wa.me/22555709610)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Faxelh-cyan?logo=telegram)](https://t.me/Faxelh)
